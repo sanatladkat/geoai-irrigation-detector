@@ -12,7 +12,7 @@ Standard agricultural monitoring relies on optical "greenness" (NDVI) as a laggi
 By calculating the relative thermal "fever" of plant canopies using Unsupervised Machine Learning, this system isolates broken irrigation pumps and water stress in extreme heat environments.
 
 ### 🎥 Tactical Output
-![My Image](assets\anomaly.PNG)
+![Anomaly](assets/anomaly.PNG)
 
 ---
 
